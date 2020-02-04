@@ -7,7 +7,7 @@ const search_input_placeholder = "Search...";
 const Search = () => {
   return (
     <section className="main">
-      <h2 className="main__title">{main_title}</h2>
+      <h1 className="main__title">{main_title}</h1>
       <input
         type="text"
         className="input"

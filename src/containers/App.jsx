@@ -17,12 +17,14 @@ const App = () => {
           <CarouselItem number="2" />
           <CarouselItem number="3" />
           <CarouselItem number="4" />
+          <CarouselItem number="5" />
         </Carousel>
         <Carousel>
-          <CarouselItem number="5" />
           <CarouselItem number="6" />
           <CarouselItem number="7" />
           <CarouselItem number="8" />
+          <CarouselItem number="9" />
+          <CarouselItem number="10" />
         </Carousel>
       </Categories>
     </React.Fragment>
