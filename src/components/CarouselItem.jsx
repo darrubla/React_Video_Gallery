@@ -1,6 +1,6 @@
 import React from "react";
-import PlayIcon from "../assets/play-icon.png";
-import PlusIcon from "../assets/plus-icon.png";
+import PlayIcon from "../assets/images/play-icon.png";
+import PlusIcon from "../assets/images/plus-icon.png";
 import "../assets/styles/components/CarouselItem.scss";
 
 const CarouselItem = img_id => {
